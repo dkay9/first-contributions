@@ -73,6 +73,7 @@
 - [Juadeb Gabriel](https://github.com/Juadebfm)
 - [Tautvydas Karvelis](https://github.com/Tautve)
 - [Pravar Anu](https://github.com/PravarAnu)
+- [kalu David](https://github.com/dkay9)
 - [Joao Crulhas](https://github.com/joaoCrulhas)
 - [Mohammad Aakash](https://github.com/MuhammadAakash)
 - [Akinbobola Emmanuel](https://github.com/Oluwatominsin-c)
